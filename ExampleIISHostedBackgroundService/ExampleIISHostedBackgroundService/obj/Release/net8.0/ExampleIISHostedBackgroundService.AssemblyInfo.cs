@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleIISHostedBackgroundService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2571d4ac64b9502bbdffce9de17f35ba9cd3375")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc52dba60a6f23534e524cf91a3e34aa62dd4cc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleIISHostedBackgroundService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleIISHostedBackgroundService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

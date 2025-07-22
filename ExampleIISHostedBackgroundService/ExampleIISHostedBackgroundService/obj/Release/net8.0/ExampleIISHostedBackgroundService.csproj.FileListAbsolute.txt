@@ -26,3 +26,4 @@ C:\Users\Logan-SuperPc\Desktop\Git\ExampleIISBackgroundService\ExampleIISHostedB
 C:\Users\Logan-SuperPc\Desktop\Git\ExampleIISBackgroundService\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService\obj\Release\net8.0\ExampleIISHostedBackgroundService.pdb
 C:\Users\Logan-SuperPc\Desktop\Git\ExampleIISBackgroundService\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService\obj\Release\net8.0\ExampleIISHostedBackgroundService.genruntimeconfig.cache
 C:\Users\Logan-SuperPc\Desktop\Git\ExampleIISBackgroundService\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService\obj\Release\net8.0\ref\ExampleIISHostedBackgroundService.dll
+C:\Users\Logan-SuperPc\Desktop\Git\ExampleIISBackgroundService\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
