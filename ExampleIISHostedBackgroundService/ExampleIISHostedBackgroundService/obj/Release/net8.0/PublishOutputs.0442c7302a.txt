@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService.exe
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\appsettings.Development.json
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\appsettings.json
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService.dll
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService.deps.json
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService.runtimeconfig.json
+C:\inetpub\wwwroot\ExampleIISHostedBackgroundService\ExampleIISHostedBackgroundService.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExampleIISHostedBackgroundService/1.0.0": {
+        "runtime": {
+          "ExampleIISHostedBackgroundService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleIISHostedBackgroundService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
